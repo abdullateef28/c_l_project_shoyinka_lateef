@@ -1,0 +1,11 @@
+print('A', end='')
+print('' 'x is lower case', end='')
+print('B', end='')
+print('C', end='')
+print()
+print('x')
+print('y')
+print('z')
+
+x=("a\n b\n c\n")
+print (x)
